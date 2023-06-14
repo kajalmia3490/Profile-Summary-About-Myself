@@ -104,6 +104,7 @@
 - jQuery
 - React
 - git & github
+- Figma
 - Python
 - C
 - Netlify
