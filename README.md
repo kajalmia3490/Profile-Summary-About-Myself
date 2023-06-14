@@ -5,7 +5,7 @@
 ### About MySelf
 - Front End Developer
 - Javascript Programmer
-- Responsive Designer
+- Responsive Web Designer
 - Dedicate & Honest
 - Always ready for new chellanges
 - Always learning technology
