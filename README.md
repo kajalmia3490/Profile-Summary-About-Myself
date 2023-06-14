@@ -56,10 +56,12 @@
     <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/jquery-icon.svg" alt="jQuery" width="40" height="40"/> 
 </a> 
 
+<br>
+
 <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> 
 </a> 
-<br>
+
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" alt="python" width="40" height="40"/> 
 </a> 
@@ -83,6 +85,8 @@
 <a href="https://www.figma.com/files/recent?fuid=1130931758624063551" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="40" height="40"/> 
 </a> 
+
+<br>
 
 <a href="https://github.com/kajalmia3490" target="_blank" rel="noreferrer"> 
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> 
