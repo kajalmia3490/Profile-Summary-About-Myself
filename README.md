@@ -27,8 +27,9 @@
 
 </p>
 
-<h2>The ones I know,</h2>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">
+    <h2>The ones I know,</h2>
+    Languages and Tools:</h3>
 
 <p align="left"> 
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">       
