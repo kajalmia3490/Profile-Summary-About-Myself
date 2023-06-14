@@ -93,3 +93,17 @@
 </a>
 
 </p>
+
+- HTML
+- CSS
+- Bootstrap
+- Tailwindcss
+- daisyUI
+- Javascript
+- ES6
+- jQuery
+- React
+- git & github
+- Python
+- C
+- Netlify
