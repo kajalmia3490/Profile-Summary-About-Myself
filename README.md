@@ -52,11 +52,11 @@
     <img style="color: white" src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" alt="daisyUI" width="40" height="40"/> 
 </a> 
 
+<br>
+
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/jquery-icon.svg" alt="jQuery" width="40" height="40"/> 
 </a> 
-
-<br>
 
 <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> 
