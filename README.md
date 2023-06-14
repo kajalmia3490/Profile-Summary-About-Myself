@@ -59,7 +59,7 @@
 <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> 
 </a> 
-
+<br>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" alt="python" width="40" height="40"/> 
 </a> 
