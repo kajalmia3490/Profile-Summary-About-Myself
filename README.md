@@ -27,7 +27,7 @@
 
 </p>
 
-## The ones I know,
+<h2>The ones I know,</h2>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
