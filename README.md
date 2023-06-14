@@ -78,6 +78,8 @@
     <img src="https://ih1.redbubble.net/image.438907151.6117/flat,128x128,075,t.u1.jpg" alt="es6" width="40" height="40"/> 
 </a> 
 
+<br>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> 
 </a> 
