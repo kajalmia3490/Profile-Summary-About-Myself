@@ -98,15 +98,16 @@
 
 - HTML
 - CSS
-- Bootstrap
-- Tailwindcss
+- Bootstrap (Framework)
+- Tailwindcss (Library)
 - daisyUI
 - Javascript
-- ES6
-- jQuery
-- React
+- ES6 (Modern JS)
+- jQuery (Library)
+- React JS (Library)
 - git & github
-- Figma
+- Figma to HTML
+- PSD to HTML
 - Python
 - C
 - Netlify
