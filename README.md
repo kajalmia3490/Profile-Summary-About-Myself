@@ -33,7 +33,7 @@
 </a> 
     
 <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> 
-    <img src="https://cutewallpaper.org/24/css3-logo-png/css3-logo-icon-download-in-flat-style.png" alt="css" width="40" height="40"/> 
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css" width="40" height="40"/> 
 </a> 
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">  
@@ -51,7 +51,7 @@
 <br>
 
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/jquery-icon.svg" alt="jQuery" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGncNUBB2_7lvobbnob6hfE45awe4CSP5gVg&usqp=CAU" alt="jQuery" width="40" height="40"/> 
 </a> 
 
 <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> 
