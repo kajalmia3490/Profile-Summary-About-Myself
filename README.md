@@ -21,10 +21,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raselalamra" height="30" width="40" />
 </a>
 
-<a href="https://www.facebook.com/kajalmia3490" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raselalamra" height="30" width="40" />
-</a>
-
 </p>
 
 <h3 align="left">
